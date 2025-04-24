@@ -1,0 +1,2 @@
+Datetime,WindSpeed_avg,WindSpeed_min,WindSpeed_max,Power_min,RotorSpeed_max,Power_max,Power_avg,RotorSpeed_min,RotorSpeed_avg,RotorTemp1,StatorTemp1,incident
+2021-01-11 07:30:00,4.2,3.1,5.1,620.0,8.26,793.0,679.0,7.28,7.61,77.0,79.0,0
