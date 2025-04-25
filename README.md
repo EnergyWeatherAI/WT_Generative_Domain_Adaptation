@@ -1,6 +1,6 @@
 # Fault Diagnosis in New Wind Turbines based on Knowledge from Existing Wind Turbines by Generative Domain Adaptation
 
-Official implementation of our research article, available on [arXiv](https://arxiv.org/). 
+Official implementation of our research article, available on [arXiv](https://arxiv.org/abs/2504.17709). 
 
 ---
 
@@ -73,9 +73,13 @@ The metrics, including the F1-score, will be stored in a .csv file in the /resul
 ### Citation
 To cite our work:
 ```
-@article{WTDomainMapping,
-  title={Fault Diagnosis in New Wind Turbines based on Knowledge from Existing Wind Turbines by Generative Domain Adaptation},
-  author={Stefan Jonas, Angela Meyer},
-  year={2025}
+@misc{jonas2025wtdomainmapping,
+      title={Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation}, 
+      author={Stefan Jonas and Angela Meyer},
+      year={2025},
+      eprint={2504.17709},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2504.17709}, 
 }
 ```
