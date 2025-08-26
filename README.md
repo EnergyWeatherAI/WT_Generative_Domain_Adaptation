@@ -1,4 +1,4 @@
-# Fault Diagnosis in New Wind Turbines based on Knowledge from Existing Wind Turbines by Generative Domain Adaptation
+# Fault Detection in New Wind Turbines with Limited Data by Generative Transfer Learning
 
 Official implementation of our research article, available on [arXiv](https://arxiv.org/abs/2504.17709). 
 
@@ -73,8 +73,8 @@ The metrics, including the F1-score, will be stored in a .csv file in the /resul
 ### Citation
 To cite our work:
 ```
-@misc{jonas2025wtdomainmapping,
-      title={Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation}, 
+@misc{jonas2025faultdetectionnewwind,
+      title={Fault Detection in New Wind Turbines with Limited Data by Generative Transfer Learning}, 
       author={Stefan Jonas and Angela Meyer},
       year={2025},
       eprint={2504.17709},
